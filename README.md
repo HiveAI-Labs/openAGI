@@ -1,4 +1,4 @@
-# openAGI
+# OpenAGI
 
 openAGI is a curated, production-ready slice of the Hive Brain platform.
 It packages the safety-critical observability stack, proof-bundle tooling,
