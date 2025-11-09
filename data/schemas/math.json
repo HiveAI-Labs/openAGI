@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "expr": {
+      "type": "string",
+      "pattern": "^[0-9+\\-*/().\\s]+$"
+    }
+  },
+  "required": [
+    "expr"
+  ],
+  "additionalProperties": false
+}
