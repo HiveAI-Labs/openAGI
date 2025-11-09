@@ -1,5 +1,7 @@
 # openAGI
 
+> **The closed-loop self-improvement system remains closed for safety and alignment purposes.** This repository publishes the open, verifiable infrastructure—proof tooling, selectors, world-model bootstrap, and safety gates—while intentionally withholding the self-modifying autonomy loops.
+
 openAGI is a curated, production-ready slice of the Hive Brain platform.
 It packages the safety-critical observability stack, proof-bundle tooling,
 strategy selector, and world-model scaffolding needed to run compliance and
